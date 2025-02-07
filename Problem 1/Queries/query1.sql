@@ -2,7 +2,6 @@
 -- Two methods given, one in step by step, the other simplified
 
 
-
 -- 1. Steps
 -- Step 1: Select students enrolled in "Physics 101"
 WITH physics_students AS (

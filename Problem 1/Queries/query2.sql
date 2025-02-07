@@ -25,8 +25,6 @@ JOIN professor_full_names ON course_professors.professor_id = professor_full_nam
 
 
 
-
-
 --2. Simplified
 SELECT courses.course_name, CONCAT(professors.first_name, ' ', professors.last_name) AS professor_full_name
 FROM courses
