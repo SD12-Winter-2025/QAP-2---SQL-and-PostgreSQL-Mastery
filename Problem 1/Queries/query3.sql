@@ -21,6 +21,7 @@ FROM course_names;
 
 
 
+
 --2. Simplified
 SELECT DISTINCT courses.course_name
 FROM courses

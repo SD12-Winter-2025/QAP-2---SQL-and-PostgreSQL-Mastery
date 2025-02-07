@@ -1,4 +1,5 @@
 -- Retrieve a list of all courses along with the professor’s full name who teaches each course.
+-- Two methods given, one in step by step, the other simplified
 
 
 
