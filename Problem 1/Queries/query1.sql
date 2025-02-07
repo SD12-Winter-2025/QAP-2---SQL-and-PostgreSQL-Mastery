@@ -25,7 +25,7 @@ FROM student_full_names;
 
 
 
---2. Simplified 
+--2. Simplified
 -- Retrieve the full names of all students enrolled in “Physics 101”
 SELECT CONCAT(students.first_name, ' ', students.last_name) AS full_name
 FROM students
