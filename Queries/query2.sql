@@ -1,5 +1,6 @@
 -- Retrieve the product names and quantities for one of the orders placed
 
+
 -- Step 1: Select the order details for a specific order
 WITH order_details AS (
     SELECT product_id, quantity

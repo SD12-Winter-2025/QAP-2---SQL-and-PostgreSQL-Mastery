@@ -1,6 +1,5 @@
 -- Retrieve the names and stock quantities of all products
 
-
 --Step method
 -- Step 1: Select all products
 WITH all_products AS (

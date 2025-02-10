@@ -1,5 +1,6 @@
 -- Retrieve all orders placed by a specific customer (including the IDs of what was ordered and the quantities)
 
+
 -- Step 1: Select all orders placed by a specific customer
 WITH customer_orders AS (
     SELECT id AS order_id, order_date
